@@ -2,7 +2,7 @@
 <!-- cabeçalhos -->
 
 
-## 💌 Apaixonada por tecnologia <br>
+# 💌 Apaixonada por tecnologia <br>
 💬 _Dev em desenvolvimento_<br>
 💻 _futura Desenvolvedora Full_<br>
 👩🏻‍💻 _em transição de carreira_<br>
