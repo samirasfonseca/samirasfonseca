@@ -9,12 +9,18 @@
 👩🏻‍💻 _em transição de carreira_<br>
 🍜 _Embarcando em um mundo totalmente novo._<br>
 
+---------------------------------------------------------------------------------------------------------
+
 # 🌐 Redes Sociais:<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/samisantos.eu?igsh=MTh2eHo4Mm1va3A2aQ== ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-santos-92364911a/) <br>
+
+---------------------------------------------------------------------------------------------------------
 
 # 💻 Tech Stack:<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
 
@@ -30,6 +36,7 @@
 
 </div>
 
+---------------------------------------------------------------------------------------------------------
 
 > _"Mais que um repositório, um diário de aprendizado."_ 📚  
 > — Desenvolvedor Anônimo
