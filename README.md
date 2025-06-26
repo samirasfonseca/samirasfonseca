@@ -2,7 +2,10 @@
 
 <!-- cabeçalhos -->
 # Título 1
-## Título 2
+## 💜 Apaixonada por tecnologia DEV em desenvolvimento
+💻  futura Desenvolvedora Full
+👩🏻‍💻 em transição de carreira
+
 ### Título 3
 #### Título 4
 ##### Título 5
