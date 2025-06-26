@@ -1,16 +1,12 @@
 
 <!-- cabeçalhos -->
 
-<div align="center">
-<!-- <img height="320em" src="https://easy-peasy.ai/ai-image-generator/images/digital-marketing-specialist-hyper-realistic-scene-south-asian-woman"/> -->
-  <img height="350em" src="./.github/assets/banner.png"/>
-</div>
 
 ## 💌 Apaixonada por tecnologia <br>
-💬Dev em desenvolvimento<br>
-💻  futura Desenvolvedora Full<br>
-👩🏻‍💻 em transição de carreira<br>
-🍜 Embarcando em um mundo totalmente novo.<br>
+💬 _Dev em desenvolvimento_<br>
+💻 _futura Desenvolvedora Full_<br>
+👩🏻‍💻 _em transição de carreira_<br>
+🍜 _Embarcando em um mundo totalmente novo._<br>
 
 # 🌐 Redes Sociais:<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/samisantos.eu?igsh=MTh2eHo4Mm1va3A2aQ== ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-santos-92364911a/) <br>
@@ -21,9 +17,18 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=samirasfonseca&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samirasfonseca&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samirasfonseca&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align='center'>
+
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samirasfonseca&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirasfonseca&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
+
+</div>
+
 
 > _"Mais que um repositório, um diário de aprendizado."_ 📚  
 > — Desenvolvedor Anônimo
