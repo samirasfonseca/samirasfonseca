@@ -3,7 +3,7 @@
 
 # 💫Sobre Mim ✨
 
-# 💌 Apaixonada por tecnologia <br>
+💌 _Apaixonada por tecnologia_ <br>
 💬 _Dev em desenvolvimento_<br>
 💻 _futura Desenvolvedora Full_<br>
 👩🏻‍💻 _em transição de carreira_<br>
