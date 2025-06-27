@@ -12,7 +12,7 @@
 ---------------------------------------------------------------------------------------------------------
 
 # 🌐 Como me Encontrar:<br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/samisantos.eu?igsh=MTh2eHo4Mm1va3A2aQ== ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-santos-92364911a/)    [![Dio](https://img.shields.io/badge/Dio-000?style=for-the-badge&logo=hexo&logoColor=FFFFFF)](https://www.dio.me/users/samirasfonseca)] <br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/samisantos.eu?igsh=MTh2eHo4Mm1va3A2aQ== ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-santos-92364911a/) [![Dio](https://img.shields.io/badge/Dio-000?style=for-the-badge&logo=hexo&logoColor=FFFFFF)](https://www.dio.me/users/samirasfonseca) <br>
 
 ---------------------------------------------------------------------------------------------------------
 
