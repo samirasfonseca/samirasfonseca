@@ -7,6 +7,17 @@
 
 ---
 
+<h2 align="center">🌎 Meu Portfólio Online</h2>
+
+<p align="center">
+<a href="https://samirasfonseca.github.io/Portifolio-Principal/">
+  <img src="https://img.shields.io/badge/🌐%20Acesse%20meu%20Portfólio-FF69B4?style=for-the-badge&logo=github&logoColor=white&animation=pulse" />
+</a>
+</p>
+
+
+---
+
 <h2 align="center">✨ Sobre Mim</h2>
 
 <p align="center">
