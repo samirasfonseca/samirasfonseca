@@ -65,6 +65,7 @@
 
 ---
 
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align='center'>
@@ -73,12 +74,12 @@
 </div>
 
 
-
-
-
-
-
 ---
+
+## Portifolio Online
+
+[🖼️ Clique e Veja 🖼️](https://portifolio-principal-jade.vercel.app/)
+
 
 <h2 align="center">🎥 Mini Portfolio GIFs</h2>
 
