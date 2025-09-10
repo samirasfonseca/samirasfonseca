@@ -83,7 +83,7 @@
 <h2 align="center">🎥 Mini Portfolio GIFs</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGco5rxw8YmmU1Pa/giphy.gif" width="200px" />
+  <img src="Portifolio - Samira.gif" width="100%" />
 </p>
 
 ---
