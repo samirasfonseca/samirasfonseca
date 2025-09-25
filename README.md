@@ -78,7 +78,8 @@
 
 ## Portifolio Online
 
-[🖼️ Clique e Veja 🖼️](https://portifolio-principal-jade.vercel.app/)
+[![Clique e Veja](https://img.shields.io/badge/Clique%20e%20Veja-blue?style=for-the-badge)](https://portifolio-principal-jade.vercel.app/)
+
 
 
 <h2 align="center">🎥 Mini Portfolio GIFs</h2>
