@@ -5,7 +5,7 @@
 👩🏻‍💻 <em>Em transição de carreira</em> | 🍜 <em>Explorando um mundo totalmente novo</em>
 </p>
 
----
+##
 
 <h2 align="center">🌎 Meu Portfólio Online</h2>
 
@@ -16,7 +16,7 @@
 </p>
 
 
----
+##
 
 <h2 align="center">✨ Sobre Mim</h2>
 
@@ -26,7 +26,7 @@
 ✨ <strong>Buscando criar soluções criativas</strong> | 🌟 <strong>Compartilhando conhecimento e evoluindo a cada código!</strong>
 </p>
 
----
+##
 
 <h2 align="center">🌐 Me encontre por aí</h2>
 
@@ -42,7 +42,7 @@
 </a>
 </p>
 
----
+##
 
 <h2 align="center">💻 Tech Stack & Ferramentas</h2>
 
@@ -63,7 +63,7 @@
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&animation=blink" />
 </p>
 
----
+##
 
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -74,7 +74,7 @@
 </div>
 
 
----
+##
 
 ## Portifolio Online
 
@@ -88,7 +88,7 @@
   <img src="Portifolio - Samira.gif" width="100%" />
 </p>
 
----
+##
 
 <p align="center">
  "Mais que um repositório, um diário de aprendizado."📚  <br>
