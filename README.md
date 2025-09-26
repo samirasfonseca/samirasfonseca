@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/samisantos.eu?igsh=MTh2eHo4Mm1va3A2aQ==">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=60&animation=glitch" />
+  <img src="https://img.shields.io/badge/Instagram-d00000?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=60&animation=glitch" />
 </a>
 <a href="https://www.linkedin.com/in/samira-santos-92364911a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=60&animation=pulse" />
@@ -69,8 +69,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirasfonseca&show_icons=true&count_private=true&title_color=FFD6E0&icon_color=FFFFFF&text_color=FFFFFF&bg_color=E4405F&border_color=FFB6C1" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirasfonseca&layout=compact&title_color=FFD6E0&text_color=FFFFFF&bg_color=E4405F&border_color=FFB6C1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirasfonseca&show_icons=true&count_private=true&title_color=03045e&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00b4d8&border_color=03045e" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirasfonseca&layout=compact&title_color=03045e&text_color=FFFFFF&bg_color=00b4d8&border_color=03045e" />
 </div>
 
 
